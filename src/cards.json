@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Bart",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Lisa",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Lisa_Simpson.png/220px-Lisa_Simpson.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Maggie",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Maggie_Simpson.png/220px-Maggie_Simpson.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Homer",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Marge",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Milhouse",
+      "image": "https://i.pinimg.com/originals/5d/4e/19/5d4e190a5c1adb77e461028613b53127.png",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Ralph",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Ralph_Wiggum.png/220px-Ralph_Wiggum.png",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Chief Wiggum",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Chief_Wiggum.png/220px-Chief_Wiggum.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Apu",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/7/7d/Apu_Nahasapeemapetilon.png/revision/latest?cb=20171027210822",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Edna",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Edna_Krabappel.png/220px-Edna_Krabappel.png",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Ned",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Ned_Flanders.png/220px-Ned_Flanders.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Principal Skinner",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Seymour_Skinner.png/220px-Seymour_Skinner.png",
+      "count": 0
+    }
+  ]
+  

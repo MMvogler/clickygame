@@ -1,6 +1,9 @@
-import React from 'react';
+import React, { Component } from 'react';
 import './App.css';
 import cards from './cards.json';
+import Wrapper from './components/Wrapper';
+import Title from './components/Title';
+import Cards from './components/Cards';
 
 class App extends Component {
   // Setting this.state.cards to the cards.json array
@@ -10,7 +13,7 @@ class App extends Component {
     highscore: 0
   };
 
-  // Establish when the game is over and restart the score
+
   gameOver = () => {
     if (this.state.score > this.state.highscore) {
       this.setState({highscore: this.state.score}, function() {
@@ -49,7 +52,7 @@ clickCount = id => {
       <Wrapper>
         <Title>Clicky Game</Title>
         {this.state.cards.map(card => (
-          <Card
+          <Cards
             clickCount={this.clickCount}
             id={card.id}
             key={card.id}

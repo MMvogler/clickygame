@@ -5,9 +5,9 @@ function FriendCard(props) {
   return (
     <span onClick={() => props.clickCount(props.id)} className="remove">
     <div className="card">
-      <div className="img-container">
-        <img alt={props.name} src={props.image} />
-      </div>
+      
+        <img alt={props.name} src={props.image} width={"80px"} height={"120px"}/>
+    
     </div>
     </span>
   );

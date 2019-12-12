@@ -2,6 +2,7 @@ import React from "react";
 import "./style.css";
 
 const Title = props => (
+  // console.log("props over here", props);
   <div className="header">
     <div className="title">{props.children}</div>
     <div className="subtitle">

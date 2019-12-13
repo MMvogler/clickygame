@@ -19,6 +19,10 @@ class App extends Component {
     }
 
     this.setState({score:0})
+
+    cards.forEach(element => {
+      element.count = 0;
+    });
     
     // console.log("high score here", this.state.highscore);
 

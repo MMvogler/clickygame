@@ -8,7 +8,7 @@ https://mmvogler.github.io/clickygame/
 ## How it Works
 
 This application renders different Simpson characters to the screen. 
-Every time an image is clicked, the images rendered to the page shuffle themselves in a random order. To gain points, users can't click the same image twice. The user's score is reset after an incorrect guess, the game should restart.
+Every time an image is clicked, the images rendered to the page shuffle themselves in a random order. To gain points, users can't click the same image twice. The user's score is reset after an incorrect guess, then the game restarts.
 
 ## Screen Shot
 
@@ -22,7 +22,6 @@ Every time an image is clicked, the images rendered to the page shuffle themselv
 ### Future Goals
 
 - More CSS/Bootstrap styling 
-- Cards need to reset along with the score 
 
 
 

@@ -12,7 +12,7 @@ Every time an image is clicked, the images rendered to the page shuffle themselv
 
 ## Screen Shot
 
-![Screen shot](public/images/screenShot.png)
+![Screen shot](public/images/screenShot.jpg)
 
 ## Technology Used
 
